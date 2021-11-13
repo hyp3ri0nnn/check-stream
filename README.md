@@ -1,0 +1,1 @@
+get latest telegram posts and compare with current date to estimate live stream. 
